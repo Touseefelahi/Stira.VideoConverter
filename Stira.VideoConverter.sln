@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stira.VideoConverter", "Stira.VideoConverter\Stira.VideoConverter.csproj", "{59AD9176-0145-4192-A0AA-E68D166D23FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59AD9176-0145-4192-A0AA-E68D166D23FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AD9176-0145-4192-A0AA-E68D166D23FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AD9176-0145-4192-A0AA-E68D166D23FD}.Debug|x64.ActiveCfg = Debug|x64
+		{59AD9176-0145-4192-A0AA-E68D166D23FD}.Debug|x64.Build.0 = Debug|x64
+		{59AD9176-0145-4192-A0AA-E68D166D23FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AD9176-0145-4192-A0AA-E68D166D23FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59AD9176-0145-4192-A0AA-E68D166D23FD}.Release|x64.ActiveCfg = Release|x64
+		{59AD9176-0145-4192-A0AA-E68D166D23FD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABBAAC7D-5B5B-47E8-A2F4-BB82239D63F1}
+	EndGlobalSection
+EndGlobal
